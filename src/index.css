@@ -170,8 +170,7 @@ body {
   display: block;
   max-width: 100%;
   text-align: center;
-  margin: 0;
-  margin-bottom: 1rem;
+  margin: 0 0 1rem;
 }
 .label__lg {
   line-height: 1.01567;
@@ -203,9 +202,8 @@ body {
 }
 .filters {
   width: 100%;
-  margin: unset;
 }
-/* Todo item styles */
+/* To do item styles */
 .todo {
   display: flex;
   flex-direction: row;
